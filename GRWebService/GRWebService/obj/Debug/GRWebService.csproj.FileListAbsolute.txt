@@ -1,0 +1,20 @@
+C:\Users\Einfari\Desktop\GRWebService - Copy\GRWebService\bin\Debug\GRWebService.dll
+C:\Users\Einfari\Desktop\GRWebService - Copy\GRWebService\bin\Debug\GRWebService.pdb
+C:\Users\Einfari\Desktop\GRWebService - Copy\GRWebService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Einfari\Desktop\GRWebService - Copy\GRWebService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Einfari\Desktop\GRWebService - Copy\GRWebService\obj\Debug\GRWebService.dll
+C:\Users\Einfari\Desktop\GRWebService - Copy\GRWebService\obj\Debug\GRWebService.pdb
+C:\Users\Einfari\Desktop\GRWebService\GRWebService\bin\Debug\GRWebService.dll
+C:\Users\Einfari\Desktop\GRWebService\GRWebService\bin\Debug\GRWebService.pdb
+C:\Users\Einfari\Desktop\GRWebService\GRWebService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Einfari\Desktop\GRWebService\GRWebService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Einfari\Desktop\GRWebService\GRWebService\obj\Debug\GRWebService.dll
+C:\Users\Einfari\Desktop\GRWebService\GRWebService\obj\Debug\GRWebService.pdb
+C:\Users\Einfari\Desktop\GRWebService\GRWebService\obj\Debug\GRWebService.csprojResolveAssemblyReference.cache
+I:\Distributed\2\GRWebService\GRWebService\bin\Debug\GRWebService.dll
+I:\Distributed\2\GRWebService\GRWebService\bin\Debug\GRWebService.pdb
+I:\Distributed\2\GRWebService\GRWebService\bin\Debug\Newtonsoft.Json.dll
+I:\Distributed\2\GRWebService\GRWebService\bin\Debug\Newtonsoft.Json.xml
+I:\Distributed\2\GRWebService\GRWebService\obj\Debug\GRWebService.dll
+I:\Distributed\2\GRWebService\GRWebService\obj\Debug\GRWebService.pdb
+I:\Distributed\2\GRWebService\GRWebService\obj\Debug\GRWebService.csprojResolveAssemblyReference.cache
